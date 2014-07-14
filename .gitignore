@@ -11,6 +11,12 @@
 # comment the following line if you want to have your project file included.
 eagle.epf
 
+# Ignore the gerber zip file
+gerber.zip
+
+# Ignore MAC OSX Files
+.DS_Store
+
 # CAM files
 *.$$$
 *.cmp
